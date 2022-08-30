@@ -1,0 +1,6 @@
+﻿  game.c
+D:\DATA\C--warehouse\c---warehouse\Sanziqi_8_26\game.c(1,10): warning C4067: 预处理器指令后有意外标记 - 应输入换行符
+  test.c
+D:\DATA\C--warehouse\c---warehouse\Sanziqi_8_26\test.c(1,10): warning C4067: 预处理器指令后有意外标记 - 应输入换行符
+  正在生成代码...
+  Sanziqi_8_26.vcxproj -> D:\DATA\C--warehouse\c---warehouse\Sanziqi_8_26\x64\Debug\Sanziqi_8_26.exe
