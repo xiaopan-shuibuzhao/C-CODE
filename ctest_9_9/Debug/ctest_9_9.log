@@ -1,0 +1,5 @@
+﻿  test.c
+D:\DATA\C--warehouse\c---warehouse\ctest_9_9\test.c(131,14): warning C4090: “return”: 不同的“const”限定符
+D:\DATA\C--warehouse\c---warehouse\ctest_9_9\test.c(142,15): warning C4090: “return”: 不同的“const”限定符
+D:\DATA\C--warehouse\c---warehouse\ctest_9_9\test.c(149): warning C4715: “my_strstr”: 不是所有的控件路径都返回值
+  ctest_9_9.vcxproj -> D:\DATA\C--warehouse\c---warehouse\ctest_9_9\Debug\ctest_9_9.exe
