@@ -1,0 +1,5 @@
+﻿  test.c
+D:\DATA\C--warehouse\c---warehouse\ctest_9_10\test.c(162,27): warning C4133: “函数”: 从“int [4]”到“const char *”的类型不兼容
+D:\DATA\C--warehouse\c---warehouse\ctest_9_10\test.c(162,9): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“size_t”
+D:\DATA\C--warehouse\c---warehouse\ctest_9_10\test.c(162,9): message : 请考虑在格式字符串中使用“%zd”
+  ctest_9_10.vcxproj -> D:\DATA\C--warehouse\c---warehouse\ctest_9_10\x64\Debug\ctest_9_10.exe
