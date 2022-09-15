@@ -1,0 +1,5 @@
+﻿  test.c
+D:\DATA\C--warehouse\c---warehouse\ctest_9_15\test.c(144,11): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+D:\DATA\C--warehouse\c---warehouse\ctest_9_15\test.c(163,16): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+D:\DATA\C--warehouse\c---warehouse\ctest_9_15\test.c(164,16): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  ctest_9_15.vcxproj -> D:\DATA\C--warehouse\c---warehouse\ctest_9_15\x64\Debug\ctest_9_15.exe
