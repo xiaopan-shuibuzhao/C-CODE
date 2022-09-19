@@ -1,0 +1,5 @@
+﻿  test.c
+D:\DATA\C--warehouse\c---warehouse\ctest_9_19\test.c(30,26): warning C4101: “s2”: 未引用的局部变量
+D:\DATA\C--warehouse\c---warehouse\ctest_9_19\test.c(30,12): warning C4101: “s1”: 未引用的局部变量
+D:\DATA\C--warehouse\c---warehouse\ctest_9_19\test.c(30,40): warning C4101: “s3”: 未引用的局部变量
+  ctest_9_19.vcxproj -> D:\DATA\C--warehouse\c---warehouse\ctest_9_19\x64\Debug\ctest_9_19.exe
