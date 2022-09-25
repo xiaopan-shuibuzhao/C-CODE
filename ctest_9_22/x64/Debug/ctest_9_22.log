@@ -1,0 +1,4 @@
+﻿  test.c
+D:\DATA\C--warehouse\c---warehouse\ctest_9_22\test.c(163,20): warning C4047: “==”:“int”与“char [2]”的间接级别不同
+D:\DATA\C--warehouse\c---warehouse\ctest_9_22\test.c(175,19): warning C4013: “pow”未定义；假设外部返回 int
+  ctest_9_22.vcxproj -> D:\DATA\C--warehouse\c---warehouse\ctest_9_22\x64\Debug\ctest_9_22.exe
